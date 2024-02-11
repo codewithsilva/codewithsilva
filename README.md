@@ -5,7 +5,6 @@
 
 Frontend Developer and UI Designer who loves responsive, attractive and accessible websites for everyone
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/psilva999/)](https://www.linkedin.com/in/psilva999/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581988971394&text=Oi)](https://api.whatsapp.com/send?phone=5581988971394&text=Hey!)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&labelColor=2CA5E0&logo=telegram&logoColor=white)](https://t.me/psilva999)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/psilva999)](https://github.com/psilva999)
@@ -20,12 +19,7 @@ Frontend Developer and UI Designer who loves responsive, attractive and accessib
 
 #### **Languages**: [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-<!-- ##### Banco de Dados: ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) -->
-
 #### **Others**: [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white) [![JSON Badge](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white)](https://www.json.org/) [![Bot Badge](https://img.shields.io/badge/-Bot-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://telegram.org/)
-
-
-<!-- ##### Aprendendo: ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) -->
 
 ## Stats
 
