@@ -18,6 +18,5 @@ Frontend Developer and UI Designer. Partner at pixslots.online
 
 #### **Others**: [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white) [![JSON Badge](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white)](https://www.json.org/) [![Bot Badge](https://img.shields.io/badge/-Bot-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://telegram.org/)
 
-  *"Take whats left and live it properly"*
-  <img src="bottom_header.svg">   
+  *"Take whats left and live it properly"* 
 </div>
