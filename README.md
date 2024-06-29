@@ -1,6 +1,6 @@
 # :man_technologist: Wanderson Pedrosa 👋
 
-Fullstack Developer and UI Designer. Partner at https://pixslots.bet
+Fullstack Developer and UI Designer. 
 
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581988971394&text=Oi)](https://api.whatsapp.com/send?phone=5581988971394&text=Hey!)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&labelColor=2CA5E0&logo=telegram&logoColor=white)](https://t.me/admpixslots)
