@@ -5,13 +5,13 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32"/>
 <a href="https://codewithsilva.com" target="_blank">Silva</a></h1>
 
-<h3>Fullstack AI Developer by Career</h3>
+<h3>Fullstack AI Developer | Automating WhatsApp, Insta and Telegram</h3>
 
 <div>
   <a href="https://codewithsilva.com" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=openapiinitiative&logoColor=white" height="36"/>
   </a>
-  
+
   <a href="https://api.whatsapp.com/send?phone=5581987113364&text=Hey" target="_blank">
   <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link)" height="36"/>
   </a>
@@ -24,6 +24,26 @@
     <img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram&logoColor=white" height='36'/>
   </a>
 </div>
+
+### 🛠️ The Code That Got Me Here:
+
+#### **Software Developer** @ VipSeg & VolpSystem  
+📅 *Nov 2023 – Present*
+
+- Developed and maintained full **admin panels** (frontend + backend) for both companies.  
+- Deployed and integrated [**Chatwoot CRM**](https://github.com/chatwoot/chatwoot) on VPS with **Instagram, WhatsApp, Email, Telegram**.  
+- Implemented **WhatsApp API** for invoice delivery and payment reminders.  
+- Led **client data migration** from legacy systems, integrating **CPFHub**, **ZapSign**, and **Clicksign** for digital contracts.  
+- Built **AI-powered onboarding**, extracting data from PDFs and images to streamline customer registration.  
+- Integrated [**Asaas Bank**](https://www.asaas.com) for billing and **automated payment processing**.  
+
+---
+
+#### **Front-End Developer** @ 888casino  
+📅 *Oct 2017 – Nov 2023*
+
+- Worked on the core **frontend platform** for 888casino, handling **games API**, UI logic, and styling.  
+- Developed flows for **affiliate systems** and **payment processing**, ensuring reliability and smooth UX.
 
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center;">
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="26"/>
