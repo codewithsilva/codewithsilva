@@ -90,7 +90,7 @@
 
 <div align="center">
   <span style="font-weight:bold;" align="left">"Take what's Left and live it properly"</span>
-  <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
+  <a href="https://animesonlinecc.to/anime/dragon-ball-z/" target="_blank"><img align="right" src="https://i.pinimg.com/originals/2c/cd/8e/2ccd8ed8547854740b91f3c41256ae92.gif" width="200 " height="200" /></a>
 </div>
 
 <div align='center'><img src="bottom_header.svg">   </div>
