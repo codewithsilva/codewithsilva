@@ -38,7 +38,7 @@
 - Led **client data migration** from legacy systems, integrating **CPFHub**, **ZapSign**, and **Clicksign** for digital contracts.  
 - Built **AI-powered onboarding**, extracting data from PDFs and images to streamline customer registration.  
 - Integrated [**Asaas Bank**](https://www.asaas.com) for billing and **automated payment processing**.  
-- Contributed directly to improving the company’s public rating on [Reclame Aqui](https://www.reclameaqui.com.br/empresa/vipseg-brasil/)), raising the score from **3.4 (2023–2024)** to **8.5 (mid-2025)** after the first Six Months of 2025 by responding to customers and professionalizing the service experience.
+- Contributed directly to improving the company’s public rating on [Reclame Aqui](https://www.reclameaqui.com.br/empresa/vipseg-brasil/), raising the score from **3.4 (2023–2024)** to **8.5 (mid-2025)** after the first Six Months of 2025 by responding to customers and professionalizing the service experience.
 
 ---
 
@@ -83,9 +83,8 @@
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="26"/>
 </div>
 
----
 
-## Lastests Projects
+## Latests Projects
 
 
 #### **Just To Stay Alive**  
@@ -93,10 +92,11 @@
 
 - **NPSVIP** ([link](https://instagram.com/npsvipbr/)): Developed a platform for sending mass **emails, SMS**, and **WhatsApp API** messages to monitor customer satisfaction surveys.  
 - **Connecting Dots**: A game for children where they connect dots to reveal animals and objects. This was my first project using **Vue.js**.  
-- Participated in **Imersão DEV 2021** by Alura. Even though I’m not usually a fan of this type of challenge, it was a great experience. I’ll join the next edition because I believe it’s important to encourage people to start programming without anxiety or pressure.  
 - I started learning programming in **July 2015**, when I was just **16 years old**, beginning with **[Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)** by Gustavo Guanabara.  
 - Over the years, I’ve continued to grow with another courses like **[Origamid](https://www.origamid.com/)** and **[Code with Mosh](https://codewithmosh.com/)** — two of the best resources I’ve ever learned from. Of course, youtube, gpt and internet has been help alot
 - One of the best books i read em 2021 and change my way of make my code work was [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882). “God is in the details” is the phrase that I’ve kept in mind ever since that book
+
+---
 
 <div>
   <a href="https://animesonlinecc.to/anime/dragon-ball-z/" target="_blank"><img src="https://i.pinimg.com/originals/2c/cd/8e/2ccd8ed8547854740b91f3c41256ae92.gif" width="90" height="90" /></a>
