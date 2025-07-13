@@ -89,8 +89,8 @@
 
 
 <div>
+  <a href="https://animesonlinecc.to/anime/dragon-ball-z/" target="_blank"><img src="https://i.pinimg.com/originals/2c/cd/8e/2ccd8ed8547854740b91f3c41256ae92.gif" width="90" height="90" /></a>
   <i style="font-weight:bold;">"Take what's Left and live it properly"</i>
-  <a href="https://animesonlinecc.to/anime/dragon-ball-z/" target="_blank"><img src="https://i.pinimg.com/originals/2c/cd/8e/2ccd8ed8547854740b91f3c41256ae92.gif" width="120" height="120" /></a>
 </div>
 
 <div align='center'><img src="bottom_header.svg" alt="waves"></div>
