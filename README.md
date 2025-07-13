@@ -86,6 +86,8 @@
 
 ### 🚀 My Latest Projects
 
+<a align='center'>
+<img src="https://camo.githubusercontent.com/58d5c482b15feda1b90f1bbcc51f3d84b376febfa03bf23f2c7c7b6633ba572c/68747470733a2f2f616e67756c61722d627563682e636f6d2f6173736574732f696d672f626f6f6b2d636f7665722d6d756c7469706c652d76342e706e67" height="26"/></a>
 
 #### **Just To Stay Alive**  
 
