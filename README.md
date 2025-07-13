@@ -88,7 +88,7 @@
 
 
 
-<div style="display:flex; align-items:center; justify-content:flex-start; gap:16px;">
-  <img src='https://i.pinimg.com/originals/2c/cd/8e/2ccd8ed8547854740b91f3c41256ae92.gif' alt='goku-cell-saga' height="80"/>
-  <span style="font-weight:bold; font-size:1em;">"Take what's Left and live it properly"</span>
+<div style="display:flex; align-items:center; justify-content:space-between; gap:16px;">
+  <span style="font-weight:bolder; font-size:1em;">"Take what's Left and live it properly"</span>
+  <img src='https://i.pinimg.com/originals/2c/cd/8e/2ccd8ed8547854740b91f3c41256ae92.gif' alt='goku-cell-saga' height="120"/>
 </div>
