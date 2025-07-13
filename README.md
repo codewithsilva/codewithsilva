@@ -92,8 +92,7 @@
 
 - **NPSVIP** ([link](https://instagram.com/npsvipbr/)): Developed a platform for sending mass **emails, SMS**, and **WhatsApp API** messages to monitor customer satisfaction surveys.  
 - **Connecting Dots**: A game for children where they connect dots to reveal animals and objects. This was my first project using **Vue.js**.  
-- I started learning programming in **July 2015**, when I was just **16 years old**, beginning with **[Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)** by Gustavo Guanabara.  
-- Over the years, I’ve continued to grow with another courses like **[Origamid](https://www.origamid.com/)** and **[Code with Mosh](https://codewithmosh.com/)** — two of the best resources I’ve ever learned from. Of course, youtube, gpt and internet has been help alot
+- I started learning programming in **July 2015**, when I was just **16 years old**, beginning with **[Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)** by Gustavo Guanabara. Over the years, I’ve continued to grow with another courses like **[Origamid](https://www.origamid.com/)** and **[Code with Mosh](https://codewithmosh.com/)** — two of the best resources I’ve ever learned from. Of course, youtube, gpt and internet has been help alot
 - One of the best books i read em 2021 and change my way of make my code work was [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882). “God is in the details” is the phrase that I’ve kept in mind ever since that book
 
 ---
