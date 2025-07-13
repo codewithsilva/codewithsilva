@@ -87,10 +87,10 @@
 ## Lastests Projects
 
 
-#### **Freelance Projects and another Stuffs**  
+#### **Just To Stay Alive**  
 📅 *2015 – Present*
 
-- **NPSVIP** ([insta](instagram.com/npsvipbr/)): Developed a platform for sending mass **emails, SMS**, and **WhatsApp API** messages to monitor customer satisfaction surveys.  
+- **NPSVIP** ([link](https://instagram.com/npsvipbr/)): Developed a platform for sending mass **emails, SMS**, and **WhatsApp API** messages to monitor customer satisfaction surveys.  
 - **Connecting Dots**: A game for children where they connect dots to reveal animals and objects. This was my first project using **Vue.js**.  
 - Participated in **Imersão DEV 2021** by Alura. Even though I’m not usually a fan of this type of challenge, it was a great experience. I’ll join the next edition because I believe it’s important to encourage people to start programming without anxiety or pressure.  
 - I started learning programming in **July 2015**, when I was just **16 years old**, beginning with **[Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)** by Gustavo Guanabara.  
