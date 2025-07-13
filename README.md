@@ -5,6 +5,8 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32"/>
 <a href="https://codewithsilva.com" target="_blank">Silva</a></h1>
 
+<h3>Fullstack AI Developer by Career</h3>
+
 <div>
   <a href="https://api.whatsapp.com/send?phone=5581987113364&text=Hey" target="_blank" borderRadius="1rem">
   <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link)" height="36"/>
@@ -18,8 +20,6 @@
     <img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram&logoColor=white" height='36'/>
   </a>
 </div>
-
-<h3>Fullstack AI Developer by Career | Silva by name</h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center;">
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="26"/>
