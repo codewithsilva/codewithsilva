@@ -32,7 +32,7 @@
 
 - Developed and maintained full **admin panels** (frontend + backend) for both companies.  
 - Deployed and integrated [**Chatwoot CRM**](https://github.com/chatwoot/chatwoot) on VPS with **Instagram, WhatsApp, Email, Telegram**.  
-- Implemented **WhatsApp API** for invoice delivery and payment reminders.  
+- Implemented [**WhatsApp API**](https://www.twilio.com/en-us) for invoice delivery and payment reminders using Twilio.  
 - Led **client data migration** from legacy systems, integrating **CPFHub**, **ZapSign**, and **Clicksign** for digital contracts.  
 - Built **AI-powered onboarding**, extracting data from PDFs and images to streamline customer registration.  
 - Integrated [**Asaas Bank**](https://www.asaas.com) for billing and **automated payment processing**.  
@@ -76,10 +76,8 @@
   <img src="https://img.shields.io/badge/-StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white" height="26"/>
   
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" height="26"/>
-  <img src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white" height="26"/>
   <img src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" height="26"/>
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="26"/>
-
 </div>
 
 
@@ -90,5 +88,5 @@
 
 <div style="display:flex; align-items:center; justify-content:space-between; gap:16px; width:100%;">
   <span style="font-weight:bolder; font-size:1em;">"Take what's Left and live it properly"</span>
-  <img src='https://i.pinimg.com/originals/2c/cd/8e/2ccd8ed8547854740b91f3c41256ae92.gif' alt='goku-cell-saga' height="120"/>
+  <img src='https://i.pinimg.com/originals/2c/cd/8e/2ccd8ed8547854740b91f3c41256ae92.gif' alt='goku-cell-saga' height="90"/>
 </div>
