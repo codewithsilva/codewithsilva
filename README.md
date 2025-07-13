@@ -86,8 +86,8 @@
 
 ### 🚀 My Latest Projects
 
-<a href='#'>
-<img src="https://camo.githubusercontent.com/58d5c482b15feda1b90f1bbcc51f3d84b376febfa03bf23f2c7c7b6633ba572c/68747470733a2f2f616e67756c61722d627563682e636f6d2f6173736574732f696d672f626f6f6b2d636f7665722d6d756c7469706c652d76342e706e67" height="290" align='center'/></a>
+<a href='#' align='center'>
+<img src="https://camo.githubusercontent.com/58d5c482b15feda1b90f1bbcc51f3d84b376febfa03bf23f2c7c7b6633ba572c/68747470733a2f2f616e67756c61722d627563682e636f6d2f6173736574732f696d672f626f6f6b2d636f7665722d6d756c7469706c652d76342e706e67" height="300" align='center'/></a>
 
 #### **Just To Stay Alive**  
 
@@ -98,7 +98,7 @@
 ---
 
 <div>
-  <a href="https://animesonlinecc.to/anime/dragon-ball-z/" target="_blank"><img src="https://i.pinimg.com/originals/2c/cd/8e/2ccd8ed8547854740b91f3c41256ae92.gif" width="90" height="90" /></a>
+  <a href="https://animesonlinecc.to/anime/dragon-ball-z/" target="_blank"><img src="https://i.pinimg.com/originals/2c/cd/8e/2ccd8ed8547854740b91f3c41256ae92.gif" width="90" height="90"/></a>
   <i style="font-weight:bold;">"Take what's Left and live it properly"</i>
 </div>
 
