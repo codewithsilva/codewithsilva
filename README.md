@@ -1,11 +1,11 @@
 
-<h1 align='center'>Hey, I'm 
+<h1>Hey, I'm 
 <a href="https://codewithsilva.com" target="_blank">Codewith</a>
 
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32"/>
 <a href="https://codewithsilva.com" target="_blank">Silva</a></h1>
 
-I'm Fullstack AI Developer. You can call me Silva BTW
+<h2>Fullstack AI Developer by Career | Silva by name</h2>
 
 <div>
   <a href="https://api.whatsapp.com/send?phone=5581987113364&text=Hey" target="_blank" borderRadius="1rem">
