@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram&logoColor=white" height='36'/>
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=psilva999&theme=github_dark&color=447ff7&label=Visitors+count" height="36" alt="Visitors count"/>
+  <img src="https://komarev.com/ghpvc/?username=psilva999&theme=github_dark&color=447ff7&label=Visitors" height="36" alt="Visitors count"/>
 </div>
 
 ### 🛠️ The Code That Got Me Here:
@@ -88,9 +88,9 @@
 
 
 
-<div style="display:flex; align-items:center; justify-content:space-between; gap:16px; width:100%; flex-wrap:wrap;">
-  <span style="font-weight:bold;">"Take what's Left and live it properly"</span>
-  <img src="https://i.pinimg.com/originals/2c/cd/8e/2ccd8ed8547854740b91f3c41256ae92.gif" alt="goku-cell-saga" style="height:90px; max-width:100px; flex-shrink:0;" />
+<div align="center">
+  <span style="font-weight:bold;" align="left">"Take what's Left and live it properly"</span>
+  <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 </div>
 
 <div align='center'><img src="bottom_header.svg">   </div>
