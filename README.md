@@ -1,8 +1,9 @@
 
 <h1  style="display:flex; align-items:center; width:100%;">Hey, I'm 
-<a href="https://codewithsilva.com" target="_blank">CodewithSilva</a>
+<a href="https://codewithsilva.com" target="_blank">Codewith</a>
 
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32"/></h1>
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32"/>
+<a href="https://codewithsilva.com" target="_blank">Silva</a></h1>
 
 I'm Fullstack AI Developer. You can call me Silva BTW
 
