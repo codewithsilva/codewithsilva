@@ -88,7 +88,6 @@
 
 
 #### **Just To Stay Alive**  
-📅 *2015 – Present*
 
 - **NPSVIP** ([link](https://instagram.com/npsvipbr/)): Developed a platform for sending mass **emails, SMS**, and **WhatsApp API** messages to monitor customer satisfaction surveys.  
 - **Connecting Dots**: A game for children where they connect dots to reveal animals and objects. This was my first project using **Vue.js**.  
