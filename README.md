@@ -23,6 +23,8 @@
   <a href="https://www.instagram.com/codewithsilva/">
     <img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram&logoColor=white" height='36'/>
   </a>
+
+  <img src="https://komarev.com/ghpvc/?username=psilva999&theme=github_dark&color=447ff7&label=Visitors+count" height="36" alt="Visitors count"/>
 </div>
 
 ### 🛠️ The Code That Got Me Here:
