@@ -8,7 +8,10 @@
 <h3>Fullstack AI Developer by Career</h3>
 
 <div>
-  <a href="https://api.whatsapp.com/send?phone=5581987113364&text=Hey" target="_blank" borderRadius="1rem">
+  <a href="https://codewithsilva.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Grok.API-000000?style=flat-square&logo=openapiinitiative&logoColor=white" height="36"/>
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5581987113364&text=Hey" target="_blank">
   <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link)" height="36"/>
   </a>
   
