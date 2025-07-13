@@ -80,7 +80,7 @@
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="26"/>
 </div>
 
-
+---
 
 ## Lastests Projects
 
@@ -88,6 +88,7 @@
 
 <div style="display:flex; align-items:center; justify-content:space-between; gap:16px; width:100%; flex-wrap:wrap;">
   <span style="font-weight:bold;">"Take what's Left and live it properly"</span>
-  <img src="https://i.pinimg.com/originals/2c/cd/8e/2ccd8ed8547854740b91f3c41256ae92.gif" alt="goku-cell-saga" style="height: 90px; max-width: 100px; flex-shrink: 0;" />
+  <img src="https://i.pinimg.com/originals/2c/cd/8e/2ccd8ed8547854740b91f3c41256ae92.gif" alt="goku-cell-saga" style="height:90px; max-width:100px; flex-shrink:0;" />
 </div>
 
+<div align='center'><img src="bottom_header.svg">   </div>
