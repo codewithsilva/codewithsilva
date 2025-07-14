@@ -40,7 +40,7 @@
 - Integrated [**Asaas Bank**](https://www.asaas.com) for billing and **automated payment processing**.  
 - Contributed directly to improving the company’s public rating on [Reclame Aqui](https://www.reclameaqui.com.br/empresa/vipseg-brasil/), raising the score from **3.4 (2023–2024)** to **8.5 (mid-2025)** after the first Six Months of 2025 by responding to customers and professionalizing the service experience.
 
-### **Software Developer** @ [NPSVIP](https://npsvip.com.br)
+#### **Software Developer** @ [Npsvip](https://npsvip.com.br)
 
 📅 *Nov 2024 – Jun 2025*
 
