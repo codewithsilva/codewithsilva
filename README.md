@@ -40,6 +40,12 @@
 - Integrated [**Asaas Bank**](https://www.asaas.com) for billing and **automated payment processing**.  
 - Contributed directly to improving the company’s public rating on [Reclame Aqui](https://www.reclameaqui.com.br/empresa/vipseg-brasil/), raising the score from **3.4 (2023–2024)** to **8.5 (mid-2025)** after the first Six Months of 2025 by responding to customers and professionalizing the service experience.
 
+### **Software Developer** @ [NPSVIP](https://npsvip.com.br)
+
+📅 *Nov 2024 – Jun 2025*
+
+- Developed a platform for sending mass **emails, SMS**, and **WhatsApp API** messages to monitor customer satisfaction surveys.   
+
 ---
 
 #### **Front-End Developer** @ Conecting-dots & Coloring games | apps for kids  
@@ -92,8 +98,6 @@
 
 #### **Just To Stay Alive**  
 
-- [NPSVIP](https://instagram.com/npsvipbr/): Developed a platform for sending mass **emails, SMS**, and **WhatsApp API** messages to monitor customer satisfaction surveys.  
-- **Connecting Dots**: A game for children where they connect dots to reveal animals and objects. This was my first project using **Vue.js**.  
 - **July 2015**, **16y**, **[Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)**, **[Origamid](https://www.origamid.com/)** and **[CodewithMosh](https://codewithmosh.com/)**. **[*Clean Code*](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)** - "God is in the details"
 
 ---
