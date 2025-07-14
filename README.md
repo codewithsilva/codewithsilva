@@ -28,11 +28,6 @@
 
 ### 🛠️ The Code That Got Me Here:
 
-#### **Software Developer** @ Rendemais  
-📅 *Jul 2025 – Present*
-
-- Implemented [**WhatsApp API**](https://www.twilio.com/en-us) and N8N to be easier for customers to know about new promotions, attendants are ease of conversations with buyers and if any product is missing
-
 #### **Software Developer** @ VipSeg & VolpSystem  
 
 📅 *Nov 2023 – Jun 2025*
