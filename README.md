@@ -29,7 +29,7 @@
 ### 🛠️ The Code That Got Me Here:
 
 #### **Software Developer** @ VipSeg & VolpSystem  
-📅 *Nov 2023 – Present*
+📅 *Nov 2023 – Jun 2025*
 
 - Developed and maintained full **admin panels** (frontend + backend) for both companies.  
 - Deployed and integrated [**Chatwoot CRM**](https://github.com/chatwoot/chatwoot) on VPS with **Instagram, WhatsApp, Email, Telegram**.  
