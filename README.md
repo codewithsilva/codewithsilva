@@ -46,13 +46,13 @@
 
 - Developed a platform for sending mass **emails, SMS**, and **WhatsApp API** messages to monitor customer satisfaction surveys.   
 
----
-
 #### **Front-End Developer** @ Conecting-dots & Coloring games | apps for kids  
 📅 *Oct 2017 – Nov 2023*
 
 - Worked on the core **frontend platform**, handling **games API**, UI logic, and styling.  
 - Developed flows for **affiliate systems** and **payment processing**, ensuring reliability and smooth UX
+
+---
 
 <div style="display:flex; flex-wrap:wrap; gap:6px; align-items:center;">
   <img src="https://img.shields.io/badge/-WhatsApp%20Automation-25D366?style=flat-square&logo=whatsapp&logoColor=white" height="26"/>
