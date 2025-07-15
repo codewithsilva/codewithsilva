@@ -100,11 +100,11 @@
 
 - **July 2015**, **16y**, **[Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)**, **[Origamid](https://www.origamid.com/)** and **[CodewithMosh](https://codewithmosh.com/)**. **[*Clean Code*](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)** - "God is in the details"
 
-<h1></h1>
-
 <div>
   <a href="https://animesonlinecc.to/anime/dragon-ball-z/" target="_blank"><img src="https://i.pinimg.com/originals/2c/cd/8e/2ccd8ed8547854740b91f3c41256ae92.gif" width="90" height="90"/></a>
   <i style="font-weight:bold;">"Take what's Left and live it properly"</i>
 </div>
+
+<h1></h1>
 
 <div align='center'><img src="bottom_header.svg" alt="waves"></div>
