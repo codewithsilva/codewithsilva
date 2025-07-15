@@ -23,6 +23,10 @@
     <img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram&logoColor=white" height='36'/>
   </a>
 
+  <a href="https://docs.google.com/document/d/1l0LUf2nrV8R4Is4a_wxnnM0Jq9eFiEYYAyW7Q2BjJT8/edit?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume.pdf-blue?style=flat-square&logo=GoogleDocs&logoColor=white" height="36"/>
+  </a>
+  
   <img src="https://komarev.com/ghpvc/?username=psilva999&theme=github_dark&color=447ff7&label=Visitors" height="36" alt="Visitors count"/>
 </div>
 
