@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram&logoColor=white" height='36'/>
   </a>
 
-  <a href="https://docs.google.com/document/d/1l0LUf2nrV8R4Is4a_wxnnM0Jq9eFiEYYAyW7Q2BjJT8/edit?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1TaTsnHNDZWMixlVM_44xkclxXuVW0Pfl/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume.pdf-blue?style=flat-square&logo=GoogleDocs&logoColor=white" height="36"/>
   </a>
   
