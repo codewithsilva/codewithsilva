@@ -52,7 +52,7 @@
 - Worked on the core **frontend platform**, handling **games API**, UI logic, and styling.  
 - Developed flows for **affiliate systems** and **payment processing**, ensuring reliability and smooth UX
 
----
+<h1></h1>
 
 <div style="display:flex; flex-wrap:wrap; gap:6px; align-items:center;">
   <img src="https://img.shields.io/badge/-WhatsApp%20Automation-25D366?style=flat-square&logo=whatsapp&logoColor=white" height="26"/>
@@ -100,7 +100,7 @@
 
 - **July 2015**, **16y**, **[Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)**, **[Origamid](https://www.origamid.com/)** and **[CodewithMosh](https://codewithmosh.com/)**. **[*Clean Code*](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)** - "God is in the details"
 
----
+<h1></h1>
 
 <div>
   <a href="https://animesonlinecc.to/anime/dragon-ball-z/" target="_blank"><img src="https://i.pinimg.com/originals/2c/cd/8e/2ccd8ed8547854740b91f3c41256ae92.gif" width="90" height="90"/></a>
