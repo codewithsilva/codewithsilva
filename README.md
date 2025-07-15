@@ -30,7 +30,7 @@
 
 #### **Software Developer** @ VipSeg & VolpSystem  
 
-📅 *Nov 2023 – Present*
+📅 *Nov 2023 – Jun 2025*
 
 - Developed and maintained full **admin panels** (frontend + backend) for both companies.  
 - Deployed and integrated [**Chatwoot CRM**](https://github.com/chatwoot/chatwoot) on VPS with **Instagram, WhatsApp, Email, Telegram**.  
@@ -47,7 +47,7 @@
 - Developed a platform for sending mass **emails, SMS**, and **WhatsApp API** messages to monitor customer satisfaction surveys.   
 
 #### **Front-End Developer** @ Conecting-dots & Coloring games | apps for kids  
-📅 *Oct 2017 – Nov 2023*
+📅 *Oct 2017 – Jun 2025*
 
 - Worked on the core **frontend platform**, handling **games API**, UI logic, and styling.  
 - Developed flows for **affiliate systems** and **payment processing**, ensuring reliability and smooth UX
