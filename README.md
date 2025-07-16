@@ -1,5 +1,5 @@
 <h1>Hey, I'm 
-<a href="https://codewithsilva.com" target="_blank" style="color:#A506DB;">Codewith</a>
+<a href="https://codewithsilva.com" target="_blank">Codewith</a>
 
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32"/>
 <a href="https://codewithsilva.com" target="_blank">Silva</a></h1>
