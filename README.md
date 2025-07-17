@@ -34,7 +34,7 @@
 
 #### **Software Developer** @ VipSeg & VolpSystem  
 
-📅 *Nov 2023 – Jun 2025*
+📅 *Nov 2023 – Present*
 
 - Developed and maintained full **admin panels** (frontend + backend) for both companies.  
 - Deployed and integrated [**Chatwoot CRM**](https://github.com/chatwoot/chatwoot) on VPS with **Instagram, WhatsApp, Email, Telegram**.  
@@ -46,7 +46,7 @@
 
 #### **Software Developer** @ [Npsvip](https://npsvip.com.br)
 
-📅 *Nov 2024 – Jun 2025*
+📅 *Nov 2024 – Present*
 
 - Developed a platform for sending mass **emails, SMS**, and **WhatsApp API** messages to monitor customer satisfaction surveys.   
 
