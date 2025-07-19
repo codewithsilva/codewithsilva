@@ -111,4 +111,4 @@
 
 <h1></h1>
 
-<div align='center'><img src="bottom_header.svg" alt="waves"></div>
+<div align='center'><img src="waves.svg" alt="waves"></div>
