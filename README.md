@@ -3,6 +3,7 @@
 
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32"/>
 <a href="https://codewithsilva.com" target="_blank">Silva</a></h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3>Fullstack AI Developer | Automating WhatsApp, Insta and Telegram</h3>
 
@@ -56,7 +57,7 @@
 - Worked on the core **frontend platform**, handling **games API**, UI logic, and styling.  
 - Developed flows for **affiliate systems** and **payment processing**, ensuring reliability and smooth UX
 
-<h1></h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div style="display:flex; flex-wrap:wrap; gap:6px; align-items:center;">
   <img src="https://img.shields.io/badge/-WhatsApp%20Automation-25D366?style=flat-square&logo=whatsapp&logoColor=white" height="26"/>
