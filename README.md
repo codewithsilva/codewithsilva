@@ -1,8 +1,5 @@
-<h1>Hey, I'm 
-<a href="https://codewithsilva.com" target="_blank">Wanderson</a>
+#Hey, I'm <a href="https://codewithsilva.com" target="_blank">Wanderson</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32"/> <a href="https://codewithsilva.com" target="_blank">Silva</a>
 
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32"/>
-<a href="https://codewithsilva.com" target="_blank">Silva</a></h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3>Fullstack AI Developer | Automating WhatsApp, Insta and Telegram</h3>
