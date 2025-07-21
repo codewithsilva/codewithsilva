@@ -6,8 +6,6 @@
 
 <h3>Fullstack AI Developer | Automating WhatsApp, Insta and Telegram</h3>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div>
   <a href="https://codewithsilva.com" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=openapiinitiative&logoColor=white" height="36"/>
@@ -31,6 +29,8 @@
   
   <img src="https://komarev.com/ghpvc/?username=psilva999&theme=github_dark&color=447ff7&label=Visitors" height="36" alt="Visitors count"/>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🛠️ The Code That Got Me Here:
 
