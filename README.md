@@ -4,7 +4,7 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32"/> 
 <a href="https://codewithsilva.com" target="_blank">Silva</a></h1>
 
-<h3>Fullstack AI Developer | Automating WhatsApp, Insta and Telegram</h3>
+<h3>Fullstack AI Developer • Automating WhatsApp, Insta and Telegram</h3>
 
 <div>
   <a href="https://codewithsilva.com" target="_blank">
