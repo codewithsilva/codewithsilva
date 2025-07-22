@@ -1,5 +1,3 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <h1>Hey, I'm <a href="https://codewithsilva.com" target="_blank">Wanderson</a> 
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32"/> 
 <a href="https://codewithsilva.com" target="_blank">Silva</a></h1>
@@ -8,24 +6,19 @@
 
 <div>
   <a href="https://codewithsilva.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=openapiinitiative&logoColor=white" height="36"/>
-  </a>
+  <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=openapiinitiative&logoColor=white" height="36"/></a>
 
   <a href="https://api.whatsapp.com/send?phone=5581987113364&text=Hey" target="_blank">
-  <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link)" height="36"/>
-  </a>
+  <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link)" height="36"/></a>
   
   <a href="https://t.me/codewithsilva" alt="blackcater's blog" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&labelColor=2CA5E0&logo=telegram&logoColor=white" height="36" />
-  </a>
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&labelColor=2CA5E0&logo=telegram&logoColor=white" height="36" /></a>
   
   <a href="https://www.instagram.com/codewithsilva/">
-    <img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram&logoColor=white" height='36'/>
-  </a>
+  <img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram&logoColor=white" height='36'/></a>
 
   <a href="https://drive.google.com/file/d/1TaTsnHNDZWMixlVM_44xkclxXuVW0Pfl/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume.pdf-blue?style=flat-square&logo=GoogleDocs&logoColor=white" height="36"/>
-  </a>
+  <img src="https://img.shields.io/badge/Resume.pdf-blue?style=flat-square&logo=GoogleDocs&logoColor=white" height="36"/></a>
   
   <img src="https://komarev.com/ghpvc/?username=psilva999&theme=github_dark&color=447ff7&label=Visitors" height="36" alt="Visitors count"/>
 </div>
@@ -36,7 +29,7 @@
 
 #### **Software Developer** @ VipSeg & VolpSystem  
 
-📅 *Nov 2023 – Present*
+📅 *Nov 2023 – Jul 2025*
 
 - Developed and maintained full **admin panels** (frontend + backend) for both companies.  
 - Deployed and integrated [**Chatwoot CRM**](https://github.com/chatwoot/chatwoot) on VPS with **Instagram, WhatsApp, Email, Telegram**.  
@@ -48,7 +41,7 @@
 
 #### **Software Developer** @ [Npsvip](https://npsvip.com.br)
 
-📅 *Nov 2024 – Present*
+📅 *Nov 2024 – Jul 2025*
 
 - Developed a platform for sending mass **emails, SMS**, and **WhatsApp API** messages to monitor customer satisfaction surveys.   
 
