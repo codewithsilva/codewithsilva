@@ -27,10 +27,10 @@
 
 ### 🚀 My Latest Projects
 
-**[SUSHI](https://sushi-phi-three.vercel.app/)**: <a><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" height="26"/>
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="26"/>
-<img src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="26"/></a>
+**[SUSHI](https://sushi-phi-three.vercel.app/)**: <a><img src="https://img.shields.io/badge/-61DAFB?style=flat-square&logo=react&logoColor=black" height="26"/>
+<img src="https://img.shields.io/badge/-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="26"/>
+<img src="https://img.shields.io/badge/-CC6699?style=flat-square&logo=sass&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/-F24E1E?style=flat-square&logo=figma&logoColor=white" height="26"/></a>
 
 <div align="center">
   <img src="https://i.ibb.co/8gPjMvBH/photo-2025-07-13-20-14-54-removebg-preview.png" height="150" alt="Projects"/>
