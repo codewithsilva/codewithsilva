@@ -27,14 +27,15 @@
 
 ### 🚀 My Latest Projects
 
-**[SUSHI](https://sushi-phi-three.vercel.app/)**: <a><img src="https://img.shields.io/badge/-61DAFB?style=flat-square&logo=react&logoColor=black" height="26"/>
-<img src="https://img.shields.io/badge/-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="26"/>
-<img src="https://img.shields.io/badge/-CC6699?style=flat-square&logo=sass&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/-F24E1E?style=flat-square&logo=figma&logoColor=white" height="26"/></a>
-
-<div align="center">
-  <img src="https://i.ibb.co/8gPjMvBH/photo-2025-07-13-20-14-54-removebg-preview.png" height="150" alt="Projects"/>
-</div>
+<a href="https://sushi-phi-three.vercel.app/" target="_blank">
+  <div><img src="https://img.shields.io/badge/-61DAFB?style=flat-square&logo=react&logoColor=black" height="26"/>
+  <img src="https://img.shields.io/badge/-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="26"/>
+  <img src="https://img.shields.io/badge/-CC6699?style=flat-square&logo=sass&logoColor=white" height="26"/>
+  <img src="https://img.shields.io/badge/-F24E1E?style=flat-square&logo=figma&logoColor=white" height="26"/></div>
+  <img src="https://i.ibb.co/6535wH7/image.png" alt="sushi" height="150"/>
+  <br/>
+  <strong>COME AND GET YOUR SUSHI</strong>
+</a>  
 
 ### 🛠️ The Code That Got Me Here:
 
