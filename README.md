@@ -23,12 +23,12 @@
 
 ### 🍣 [Come and Get Your Sushi](https://sushi-phi-three.vercel.app/)
 
-<a>
-<img src="https://img.shields.io/badge/-000000?style=flat-square&logo=react&logoColor=61DAFB" height="20"/>
-<img src="https://img.shields.io/badge/-000000?style=flat-square&logo=sass&logoColor=CC6699" height="20"/>
-<img src="https://img.shields.io/badge/-000000?style=flat-square&logo=figma&logoColor=F24E1E" height="20"/>
-<img src="https://img.shields.io/badge/-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" height="20"/>
-</a>
+<p>
+<img src="https://img.shields.io/badge/-61DAFB?style=flat-square&logo=react&logoColor=black" height="20"/>
+<img src="https://img.shields.io/badge/-CC6699?style=flat-square&logo=sass&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/-F24E1E?style=flat-square&logo=figma&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"/>
+</p>
 
 <img src="https://i.ibb.co/6535wH7/image.png" alt="sushi" height="150"/>
 
@@ -86,11 +86,8 @@
 ## 🧠 Education & Learning Path
 
 - Studied through:
-  - [Curso em Vídeo](https://www.youtube.com/c/CursoemVídeo)
   - [Origamid](https://www.origamid.com/)
-  - [Code with Mosh](https://codewithmosh.com/)
+  - [CodewithMosh](https://codewithmosh.com/)
 - Deep interest in **Clean Code**, readable architecture, and system design.
-
----
 
 > “Take what's left and live it properly”
