@@ -1,7 +1,7 @@
-<h1 align="center">Wanderson Silva</h1>
-<h3 align="center">Fullstack AI Developer • WhatsApp, Instagram & Telegram Automation</h3>
+<h1>Wanderson Silva</h1>
+<h3>Fullstack AI Developer • WhatsApp, Instagram & Telegram Automation</h3>
 
-<p align="center">
+<p>
   <a href="https://codewithsilva.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
   </a>
@@ -19,24 +19,23 @@
   </a>
 </p>
 
-## 🧠 About Me
-
-I’m a Fullstack Developer focused on **process automation** and **AI-powered applications**, specializing in integrating APIs like WhatsApp, Instagram, and Telegram.
-
-My experience includes building scalable systems for communication, onboarding, CRMs, and payment automation. I’m passionate about delivering high-impact solutions that directly improve user and business outcomes.
-
 ## 🚀 Featured Projects
 
 ### 🍣 [Come and Get Your Sushi](https://sushi-phi-three.vercel.app/)
 
-An elegant food delivery UI built using React, Sass, Figma and JavaScript.
+<a>
+<img src="https://img.shields.io/badge/-000000?style=flat-square&logo=react&logoColor=61DAFB" height="20"/>
+<img src="https://img.shields.io/badge/-000000?style=flat-square&logo=sass&logoColor=CC6699" height="20"/>
+<img src="https://img.shields.io/badge/-000000?style=flat-square&logo=figma&logoColor=F24E1E" height="20"/>
+<img src="https://img.shields.io/badge/-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" height="20"/>
+</a>
 
 <img src="https://i.ibb.co/6535wH7/image.png" alt="sushi" height="150"/>
 
 ## 💼 Work Experience
 
 ### 🔹 Fullstack Developer — VipSeg & VolpSystem  
-📍 *Nov 2023 – Jul 2025*
+📍 *Nov 2023 – Jul 2025* (remote)
 
 - Built and maintained full **admin dashboards** (frontend + backend) for internal operations.
 - Deployed and integrated [**Chatwoot CRM**](https://github.com/chatwoot/chatwoot) with **Instagram, WhatsApp, Email, Telegram** via VPS.
@@ -47,13 +46,16 @@ An elegant food delivery UI built using React, Sass, Figma and JavaScript.
 - Significantly improved public ratings on [Reclame Aqui](https://www.reclameaqui.com.br/empresa/vipseg-brasil/): **from 3.4 to 8.5** in six months (2025).
 
 ### 🔹 Fullstack Developer — [Npsvip](https://npsvip.com.br)  
-📍 *Nov 2024 – Jul 2025*
+📍 *Nov 2024 – Jul 2025* (remote)
 
 - Built a mass messaging platform for **email, SMS**, and **WhatsApp API**, focused on **customer satisfaction surveys** and NPS automation.
 
 ## 🧰 Tech Stack
 
 ### 🖥️ Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=curseforge&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -63,8 +65,9 @@ An elegant food delivery UI built using React, Sass, Figma and JavaScript.
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
@@ -87,20 +90,6 @@ An elegant food delivery UI built using React, Sass, Figma and JavaScript.
   - [Origamid](https://www.origamid.com/)
   - [Code with Mosh](https://codewithmosh.com/)
 - Deep interest in **Clean Code**, readable architecture, and system design.
-
----
-
-## 🛠️ Core Skills
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FE6D73?style=flat-square&logo=n8n&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
-![Chatwoot](https://img.shields.io/badge/Chatwoot-1F2937?style=flat-square&logo=database&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
