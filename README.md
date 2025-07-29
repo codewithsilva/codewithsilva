@@ -19,15 +19,11 @@
   </a>
 </p>
 
----
-
 ## 🧠 About Me
 
 I’m a Fullstack Developer focused on **process automation** and **AI-powered applications**, specializing in integrating APIs like WhatsApp, Instagram, and Telegram.
 
 My experience includes building scalable systems for communication, onboarding, CRMs, and payment automation. I’m passionate about delivering high-impact solutions that directly improve user and business outcomes.
-
----
 
 ## 🚀 Featured Projects
 
@@ -36,21 +32,6 @@ My experience includes building scalable systems for communication, onboarding, 
 An elegant food delivery UI built using React, Sass, Figma and JavaScript.
 
 <img src="https://i.ibb.co/6535wH7/image.png" alt="sushi" height="150"/>
-
-## 🧰 Tech Stack
-
----
-
-**Backend**  
-FastAPI · Python · Node.js · TypeScript · PostgreSQL · MySQL · SQLite
-
-**Frontend**  
-React · Next.js · React Native · Flutter · SCSS · Styled Components
-
-**DevOps & Integrations**  
-Docker · Git · Chatwoot · Asaas · Twilio · n8n · ZapSign · OpenAI
-
----
 
 ## 💼 Work Experience
 
@@ -70,7 +51,34 @@ Docker · Git · Chatwoot · Asaas · Twilio · n8n · ZapSign · OpenAI
 
 - Built a mass messaging platform for **email, SMS**, and **WhatsApp API**, focused on **customer satisfaction surveys** and NPS automation.
 
----
+## 🧰 Tech Stack
+
+### 🖥️ Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Styled Components](https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+
+### ⚙️ DevOps & Integrations
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Chatwoot](https://img.shields.io/badge/Chatwoot-1F2937?style=flat-square&logo=database&logoColor=white)
+![Asaas](https://img.shields.io/badge/Asaas-000000?style=flat-square&logo=openapiinitiative&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FE6D73?style=flat-square&logo=n8n&logoColor=white)
+![ZapSign](https://img.shields.io/badge/ZapSign-0C6DFD?style=flat-square&logo=googleforms&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 ## 🧠 Education & Learning Path
 
