@@ -19,30 +19,6 @@
   </a>
 </p>
 
-## 🚀 Featured Projects
-
-### 🍣 [Food Delivery](https://sushi-phi-three.vercel.app/)
-
-<p>
-<img src="https://img.shields.io/badge/-61DAFB?style=flat-square&logo=react&logoColor=black" height="20"/>
-<img src="https://img.shields.io/badge/-CC6699?style=flat-square&logo=sass&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/-F24E1E?style=flat-square&logo=figma&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"/>
-</p>
-
-<img src="https://i.ibb.co/6535wH7/image.png" alt="sushi" height="150"/>
-
-### 🐶 [Insta Dogs](https://instadogs-five.vercel.app/)
-
-<p>
-<img src="https://img.shields.io/badge/-61DAFB?style=flat-square&logo=react&logoColor=black" height="20"/>
-<img src="https://img.shields.io/badge/-264DE4?style=flat-square&logo=css3&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"/>
-</p>
-
-<img src="https://i.ibb.co/GvYzgC5j/photo-2025-07-30-11-04-29.jpg" alt="dogs" height="150"/>
-
 ## 💼 Work Experience
 
 ### 🔹 Fullstack Developer — VipSeg & VolpSystem  
@@ -94,11 +70,62 @@
 ![ZapSign](https://img.shields.io/badge/ZapSign-0C6DFD?style=flat-square&logo=googleforms&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
+## 🚀 Featured Projects
+
+### 🍣 [Food Delivery](https://sushi-phi-three.vercel.app/)
+
+<p>
+<img src="https://img.shields.io/badge/-61DAFB?style=flat-square&logo=react&logoColor=black" height="20"/>
+<img src="https://img.shields.io/badge/-CC6699?style=flat-square&logo=sass&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/-F24E1E?style=flat-square&logo=figma&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"/>
+</p>
+
+<img src="https://i.ibb.co/6535wH7/image.png" alt="sushi" height="150"/>
+
+### 🐶 [Insta Dogs](https://instadogs-five.vercel.app/)
+
+<p>
+<img src="https://img.shields.io/badge/-61DAFB?style=flat-square&logo=react&logoColor=black" height="20"/>
+<img src="https://img.shields.io/badge/-264DE4?style=flat-square&logo=css3&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"/>
+</p>
+
+<img src="https://i.ibb.co/GvYzgC5j/photo-2025-07-30-11-04-29.jpg" alt="dogs" height="150"/>
+
 ## 🧠 Education & Learning Path
 
 - Studied through:
   - [Origamid](https://www.origamid.com/)
   - [CodewithMosh](https://codewithmosh.com/)
-- Deep interest in **Clean Code**, readable architecture, and system design.
+
+### 📚 Recommended Reading
+
+#### 🧠 Clean Code & Architecture
+- *Clean Code* – Robert C. Martin
+- *Clean Architecture* – Robert C. Martin
+- *The Pragmatic Programmer* – Andrew Hunt & David Thomas
+- *Software Engineering at Google* – Titus Winters, Tom Manshreck & Hyrum Wright
+- *Designing Data-Intensive Applications* – Martin Kleppmann
+
+#### 🧱 Design Patterns & Refactoring
+- *Design Patterns: Elements of Reusable Object-Oriented Software* – Gamma, Helm, Johnson & Vlissides (GoF)
+- *Head First Design Patterns* – Eric Freeman & Elisabeth Robson
+- *Refactoring: Improving the Design of Existing Code* – Martin Fowler
+- *Domain-Driven Design* – Eric Evans
+
+#### ☕ Java
+- *Effective Java* – Joshua Bloch
+- *Java Concurrency in Practice* – Brian Goetz
+- *Spring in Action* – Craig Walls
+
+#### 🐍 Python
+- *Fluent Python* – Luciano Ramalho
+- *Effective Python* – Brett Slatkin
+
+#### 🤖 AI / Machine Learning
+- *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow* – Aurélien Géron
+
 
 > “Take what's left and live it properly”
