@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"/>
 </p>
 
-<img src="[https://i.ibb.co/6535wH7/image.png](https://i.ibb.co/GvYzgC5j/photo-2025-07-30-11-04-29.jpg)" alt="sushi" height="150"/>
+<img src="https://i.ibb.co/GvYzgC5j/photo-2025-07-30-11-04-29.jpg" alt="dogs" height="150"/>
 
 ## 💼 Work Experience
 
