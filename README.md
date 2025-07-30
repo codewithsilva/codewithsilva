@@ -85,7 +85,7 @@
 
 ### 🐶 [Insta Dogs](https://instadogs-five.vercel.app/)
 
-<img src="https://i.ibb.co/GvYzgC5j/photo-2025-07-30-11-04-29.jpg" alt="dogs" height="100"/>
+<img src="https://i.ibb.co/GvYzgC5j/photo-2025-07-30-11-04-29.jpg" alt="dogs" height="150"/>
 
 <p>
 <img src="https://img.shields.io/badge/-61DAFB?style=flat-square&logo=react&logoColor=black" height="20"/>
