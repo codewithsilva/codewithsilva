@@ -74,8 +74,6 @@
 
 ### 🍣 [Food Delivery](https://sushi-phi-three.vercel.app/)
 
-<img src="https://i.ibb.co/6535wH7/image.png" alt="sushi" height="100"/>
-
 <p>
 <img src="https://img.shields.io/badge/-61DAFB?style=flat-square&logo=react&logoColor=black" height="20"/>
 <img src="https://img.shields.io/badge/-CC6699?style=flat-square&logo=sass&logoColor=white" height="20"/>
@@ -83,9 +81,9 @@
 <img src="https://img.shields.io/badge/-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"/>
 </p>
 
-### 🐶 [Insta Dogs](https://instadogs-five.vercel.app/)
+<img src="https://i.ibb.co/6535wH7/image.png" alt="sushi" height="100"/>
 
-<img src="https://i.ibb.co/GvYzgC5j/photo-2025-07-30-11-04-29.jpg" alt="dogs" height="150"/>
+### 🐶 [Insta Dogs](https://instadogs-five.vercel.app/)
 
 <p>
 <img src="https://img.shields.io/badge/-61DAFB?style=flat-square&logo=react&logoColor=black" height="20"/>
@@ -93,6 +91,8 @@
 <img src="https://img.shields.io/badge/-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"/>
 </p>
+
+<img src="https://i.ibb.co/GvYzgC5j/photo-2025-07-30-11-04-29.jpg" alt="dogs" height="160"/>
 
 ## 🧠 Education & Learning Path
 
