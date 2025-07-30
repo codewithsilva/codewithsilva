@@ -21,7 +21,7 @@
 
 ## 💼 Work Experience
 
-### 🔹 Fullstack Developer — VipSeg & VolpSystem  
+### 🔹 Fullstack Developer — [VipSeg](https://vipseg.org) & [Volp System](https://app.volpsystem.com)   
 📍 *Nov 2023 – Jul 2025* (remote)
 
 - Built and maintained full **admin dashboards** (frontend + backend) for internal operations.
@@ -35,7 +35,13 @@
 ### 🔹 Fullstack Developer — [Npsvip](https://npsvip.com.br)  
 📍 *Nov 2024 – Jul 2025* (remote)
 
-- Built a mass messaging platform for **email, SMS**, and **WhatsApp API**, focused on **customer satisfaction surveys** and NPS automation.
+- Built a mass messaging platform for **email, SMS**, and **WhatsApp API**, focused on **customer satisfaction surveys** and NPS automation
+
+### 🔹 Frontend Developer — [NG SOLUTIONS](https://ngsolutions.com.br/)  
+📍 *Out 2023 – Nov 2023* (freelancer)
+
+- Performed network mapping and failure diagnosis in low-connectivity areas using interactive maps built with React on the frontend.
+- Assisted field teams with clear visual instructions for resolving mapped issues.
 
 ## 🧰 Tech Stack
 
