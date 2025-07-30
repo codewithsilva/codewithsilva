@@ -21,7 +21,7 @@
 
 ## 🚀 Featured Projects
 
-### 🍣 [Sushi](https://sushi-phi-three.vercel.app/)
+### 🍣 [Food Delivery](https://sushi-phi-three.vercel.app/)
 
 <p>
 <img src="https://img.shields.io/badge/-61DAFB?style=flat-square&logo=react&logoColor=black" height="20"/>
