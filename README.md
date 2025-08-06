@@ -21,7 +21,7 @@
 
 ## 💼 Work Experience
 
-### 🔹 [Business Language](https://www.businesslanguageschool.com/) — Business Language
+### 🔹 [Business Language](https://www.businesslanguageschool.com/) — Fullstack Developer 
 📍 *Ago 2025 – Present* (remote)
 
 - loading...
