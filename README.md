@@ -21,6 +21,11 @@
 
 ## 💼 Work Experience
 
+### 🔹 [Business Language](https://www.businesslanguageschool.com/) — Business Language
+📍 *Ago 2025 – Present* (remote)
+
+- loading...
+
 ### 🔹 [VipSeg](https://vipseg.org) & [Volp System](https://app.volpsystem.com) — Fullstack Developer     
 📍 *Nov 2023 – Jul 2025* (remote)
 
