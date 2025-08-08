@@ -42,7 +42,7 @@
 
 - Built a mass messaging platform for **email, SMS**, and **WhatsApp API**, focused on **customer satisfaction surveys** and NPS automation
 
-### 🔹 [NG SOLUTIONS](https://ngsolutions.com.br/) — Frontend Developer
+### 🔹 [Ng Solutions](https://ngsolutions.com.br/) — Frontend Developer
 📍 *Out 2023 – Nov 2023* (freelancer)
 
 - Performed network mapping and failure diagnosis in low-connectivity areas using interactive maps built with React on the frontend.
