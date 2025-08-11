@@ -27,7 +27,7 @@
 - loading...
 
 ### 🔹 [VipSeg](https://vipseg.org) & [Volp System](https://app.volpsystem.com) — Fullstack Developer     
-📍 *Nov 2023 – Present* (remote)
+📍 *Nov 2023 – Jul 2025* (remote)
 
 - Built and maintained full **admin dashboards** (frontend + backend) for internal operations.
 - Deployed and integrated [**Chatwoot CRM**](https://github.com/chatwoot/chatwoot) with **Instagram, WhatsApp, Email, Telegram** via VPS.
