@@ -21,7 +21,7 @@
 
 ## 💼 Work Experience
 
-### 🔹 [Business Language](https://www.businesslanguageschool.com/) — Fullstack Developer 
+### 🔹 [Business Language](https://www.businesslanguageschool.com/) && [Voizy.app](https://voizy.app/) — Fullstack Developer 
 📍 *Ago 2025 – Present* (remote)
 
 - loading...
