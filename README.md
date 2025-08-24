@@ -37,7 +37,7 @@
 - Connected billing systems using [**Asaas Bank**](https://asaas.com), enabling **automated payment processing**.
 - Significantly improved public ratings on [Reclame Aqui](https://www.reclameaqui.com.br/empresa/vipseg-brasil/): **from 3.4 to 8.5** in six months (2025).
 
-### 🔹 [Npsvip](https://npsvip.com.br) — Fullstack Developer
+### 🔹 [Npsvip](https://nps-ten.vercel.app/) — Fullstack Developer
 📍 *Nov 2024 – Jul 2025* (remote)
 
 - Built a mass messaging platform for **email, SMS**, and **WhatsApp API**, focused on **customer satisfaction surveys** and NPS automation
