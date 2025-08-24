@@ -26,7 +26,7 @@
 
 - loading...
 
-### 🔹 [VipSeg](https://vipseg.org) & [Volp System](https://app.volpsystem.com) — Fullstack Developer     
+### 🔹 [VipSeg](https://vipseg.org) & [Volp System](https://www.google.com/search?q=volp+system) — Fullstack Developer     
 📍 *Nov 2023 – Jul 2025* (remote)
 
 - Built and maintained full **admin dashboards** (frontend + backend) for internal operations.
