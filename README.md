@@ -11,9 +11,6 @@
   <a href="https://t.me/codewithsilva" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/wandersonpedrosa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
   <a href="https://drive.google.com/file/d/1NpsNMQDtEE0kVtluqV1O3Y0KLA1-PVj0/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=googledocs&logoColor=white"/>
   </a>
