@@ -21,7 +21,7 @@
 ### 🔹 [Business Language](https://www.businesslanguageschool.com/) & [Voizy.app](https://voizy.app/) — Fullstack Developer 
 📍 *Ago 2025 – Present* (remote)
 
-- I built a system, since the Front and Backend and adm panel that allows simultaneous translation and audio transmission and real time to various languages ​​(Portuguese, Spanish and English). This system works for more than 20000 users simultaneous
+- I built a system, since the Front and Backend and adm panel that allows simultaneous translation and audio transmission in real time to various languages ​​(Portuguese, Spanish and English)
 
 ### 🔹 [VipSeg](https://vipseg.org) & [Volp System](https://www.google.com/search?q=volp+system) — Fullstack Developer     
 📍 *Nov 2023 – Jul 2025* (remote)
