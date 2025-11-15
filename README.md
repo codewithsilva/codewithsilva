@@ -21,7 +21,8 @@
 ### 🔹 [Business Language](https://www.businesslanguageschool.com/) & [Voizy.app](https://voizy.app/) — Fullstack Developer 
 📍 *Ago 2025 – Present* (remote)
 
-- I built a system, since the Front and Backend and adm panel that allows simultaneous translation and audio transmission in real time to various languages ​​(Portuguese, Spanish and English)
+- I designed and built a complete solution — covering the frontend, backend, and admin panel — that delivers real-time audio and transcription streaming with simultaneous translation into multiple languages, currently supporting Portuguese, Spanish, and English. The platform can run entirely on AI, providing real-time voice generation, transcription, and translation with no need for human interpreters.
+- We are partners with [BAPS](https://baps.global/), the Brazilian Association of Aesthetic Plastic Surgery, which promotes scientific excellence, ethics, and continuous education for plastic surgeons. We also collaborate with [Tigre](https://www.tigre.com.br/), a Brazilian multinational and market leader in construction solutions, recognized for its wide portfolio of pipes and fittings and its commitment to innovation and quality of life.
 
 ### 🔹 [VipSeg](https://vipseg.org) & [Volp System](https://www.google.com/search?q=volp+system) — Fullstack Developer     
 📍 *Nov 2023 – Jul 2025* (remote)
