@@ -1,5 +1,5 @@
 <h1>Wanderson Silva</h1>
-<h3>Fullstack Developer • N8N, WhatsApp, Instagram & Telegram Automation</h3>
+<h3>Fullstack N8N Developer</h3>
 
 <p>
   <a href="https://codewithsilva.com" target="_blank">
