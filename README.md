@@ -16,7 +16,7 @@
 
 <img src='/public/line.gif'/>
 
-<a href="https://codewithsilva.com/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
+<a href="https://codewithsilva.com/" target="_blank"><img align='right' src='/public/berserk.gif' width='250'></a>
 
 <h3>Fullstack N8N Engineer</h3>
 
