@@ -1,114 +1,88 @@
-<h1>Hey, I'm 
-<a href="https://codewithsilva.com" target="_blank">Wanderson</a>
+<img src='/public/banner.jpg'/>
+<h3>Fullstack N8N Developer</h3>
 
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32"/>
-<a href="https://codewithsilva.com" target="_blank">Silva</a></h1>
-
-<h3>Fullstack AI Developer | Automating WhatsApp, Insta and Telegram</h3>
-
-<div>
+<p>
   <a href="https://codewithsilva.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=openapiinitiative&logoColor=white" height="36"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
   </a>
-
   <a href="https://api.whatsapp.com/send?phone=5581987113364&text=Hey" target="_blank">
-  <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link)" height="36"/>
+    <img src="https://img.shields.io/badge/WhatsApp-4CA143?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  
-  <a href="https://t.me/codewithsilva" alt="blackcater's blog" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&labelColor=2CA5E0&logo=telegram&logoColor=white" height="36" />
+  <a href="https://t.me/codewithsilva" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  
-  <a href="https://www.instagram.com/codewithsilva/">
-    <img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram&logoColor=white" height='36'/>
+  <a href="https://drive.google.com/file/d/1NpsNMQDtEE0kVtluqV1O3Y0KLA1-PVj0/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=googledocs&logoColor=white"/>
   </a>
+</p>
 
-  <a href="https://drive.google.com/file/d/1TaTsnHNDZWMixlVM_44xkclxXuVW0Pfl/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume.pdf-blue?style=flat-square&logo=GoogleDocs&logoColor=white" height="36"/>
-  </a>
-  
-  <img src="https://komarev.com/ghpvc/?username=psilva999&theme=github_dark&color=447ff7&label=Visitors" height="36" alt="Visitors count"/>
-</div>
+## 💼 Work Experience
 
-### 🛠️ The Code That Got Me Here:
+### 🔹 [Business Language](https://www.businesslanguageschool.com/) & [Voizy.app](https://voizy.app/) — Fullstack Developer 
+📍 *Ago 2025 – Present* (remote)
 
-#### **Software Developer** @ VipSeg & VolpSystem  
+- I designed and built a complete solution — covering the frontend, backend, and admin panel — that delivers real-time audio and transcription streaming with simultaneous translation into multiple languages, currently supporting Portuguese, Spanish, and English. The platform can run entirely on AI, providing real-time voice generation, transcription, and translation with no need for human interpreters.
+- We are partners with [BAPS](https://baps.global/), the Brazilian Association of Aesthetic Plastic Surgery, which promotes scientific excellence, ethics, and continuous education for plastic surgeons. We also collaborate with [Tigre](https://www.tigre.com.br/), a Brazilian multinational and market leader in construction solutions, recognized for its wide portfolio of pipes and fittings and its commitment to innovation and quality of life.
 
-📅 *Nov 2023 – Present*
+### 🔹 [VipSeg](https://vipseg.org) & [Volp System](https://www.google.com/search?q=volp+system) — Fullstack Developer     
+📍 *Nov 2023 – Jul 2025* (remote)
 
-- Developed and maintained full **admin panels** (frontend + backend) for both companies.  
-- Deployed and integrated [**Chatwoot CRM**](https://github.com/chatwoot/chatwoot) on VPS with **Instagram, WhatsApp, Email, Telegram**.  
-- Implemented [**WhatsApp API**](https://www.twilio.com/en-us) for invoice delivery and payment reminders using Twilio.  
-- Led **client data migration** from legacy systems, integrating **CPFHub**, **ZapSign**, and **Clicksign** for digital contracts.  
-- Built **AI-powered onboarding**, extracting data from PDFs and images to streamline customer registration.  
-- Integrated [**Asaas Bank**](https://www.asaas.com) for billing and **automated payment processing**.  
-- Contributed directly to improving the company’s public rating on [Reclame Aqui](https://www.reclameaqui.com.br/empresa/vipseg-brasil/), raising the score from **3.4 (2023–2024)** to **8.5 (mid-2025)** after the first Six Months of 2025 by responding to customers and professionalizing the service experience.
+- Built and maintained full **admin dashboards** (frontend + backend) for internal operations.
+- Deployed and integrated [**Chatwoot CRM**](https://github.com/chatwoot/chatwoot) with **Instagram, WhatsApp, Email, Telegram** via VPS.
+- Integrated **Twilio’s WhatsApp API** for automated invoice delivery and reminders.
+- Led full **client data migration** and contract digitalization via **CPFHub**, **ZapSign**, and **Clicksign**.
+- Developed AI-based onboarding flows that extract data from PDFs and images.
+- Connected billing systems using [**Asaas Bank**](https://asaas.com), enabling **automated payment processing**.
+- Significantly improved public ratings on [Reclame Aqui](https://www.reclameaqui.com.br/empresa/vipseg-brasil/): **from 3.4 to 8.5** in six months (2025).
 
-#### **Software Developer** @ [Npsvip](https://npsvip.com.br)
+### 🔹 [Npsvip](https://nps-ten.vercel.app/) — Fullstack Developer
+📍 *Nov 2024 – Jul 2025* (remote)
 
-📅 *Nov 2024 – Present*
+- Built a mass messaging platform for **email, SMS**, and **WhatsApp API**, focused on **customer satisfaction surveys** and NPS automation
 
-- Developed a platform for sending mass **emails, SMS**, and **WhatsApp API** messages to monitor customer satisfaction surveys.   
+### 🔹 [Ng Solutions](https://ngsolutions.com.br/) — Frontend Developer
+📍 *Out 2023 – Nov 2023* (freelancer)
 
-#### **Front-End Developer** @ Conecting-dots & Coloring games | apps for kids  
-📅 *Oct 2017 – Nov 2023*
+- Performed network mapping and failure diagnosis in low-connectivity areas using interactive maps built with React on the frontend.
+- Assisted field teams with clear visual instructions for resolving mapped issues.
 
-- Worked on the core **frontend platform**, handling **games API**, UI logic, and styling.  
-- Developed flows for **affiliate systems** and **payment processing**, ensuring reliability and smooth UX
+## 🧰 Tech Stack
 
-<h1></h1>
+### 🖥️ Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=curseforge&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-<div style="display:flex; flex-wrap:wrap; gap:6px; align-items:center;">
-  <img src="https://img.shields.io/badge/-WhatsApp%20Automation-25D366?style=flat-square&logo=whatsapp&logoColor=white" height="26"/>
-  <img src="https://img.shields.io/badge/-Instagram%20Automation-E4405F?style=flat-square&logo=instagram&logoColor=white" height="26"/>
-  <img src="https://img.shields.io/badge/-Telegram%20Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white" height="26"/>
+### 🎨 Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Styled Components](https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 
-  <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="26"/>
-  <img src="https://img.shields.io/badge/-Grok.API-000000?style=flat-square&logo=openapiinitiative&logoColor=white" height="26"/>
-  <img src="https://img.shields.io/badge/-n8n-FE6D73?style=flat-square&logo=n8n&logoColor=white" height="26"/>
-  <img src="https://img.shields.io/badge/-Chatwoot-1F2937?style=flat-square&logo=database&logoColor=white" height="26"/>
+### ⚙️ DevOps & Integrations
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Chatwoot](https://img.shields.io/badge/Chatwoot-1F2937?style=flat-square&logo=database&logoColor=white)
+![Asaas](https://img.shields.io/badge/Asaas-000000?style=flat-square&logo=openapiinitiative&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FE6D73?style=flat-square&logo=n8n&logoColor=white)
+![ZapSign](https://img.shields.io/badge/ZapSign-0C6DFD?style=flat-square&logo=googleforms&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" height="26"/>
-  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" height="26"/>
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" height="26"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" height="26"/>
+## 🧠 Education & Learning Path
 
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="26"/>
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="26"/>
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="26"/>
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="26"/>
+- Studied through:
+  - [Origamid](https://www.origamid.com/)
+  - [CodewithMosh](https://codewithmosh.com/)
 
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="26"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="26"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="26"/>
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" height="26"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="26"/>
-
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" height="26"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="26"/>
-  <img src="https://img.shields.io/badge/-StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white" height="26"/>
-  
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" height="26"/>
-  <img src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" height="26"/>
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="26"/>
-</div>
-
-
-### 🚀 My Latest Projects
-
-<div align="center">
-  <img src="https://i.ibb.co/8gPjMvBH/photo-2025-07-13-20-14-54-removebg-preview.png" height="150" alt="Projects"/>
-</div>
-
-#### **Just To Stay Alive**  
-
-- **July 2015**, **16y**, **[Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)**, **[Origamid](https://www.origamid.com/)** and **[CodewithMosh](https://codewithmosh.com/)**. **[*Clean Code*](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)** - "God is in the details"
-
-<div>
-  <a href="https://animesonlinecc.to/anime/dragon-ball-z/" target="_blank"><img src="https://i.pinimg.com/originals/2c/cd/8e/2ccd8ed8547854740b91f3c41256ae92.gif" width="90" height="90"/></a>
-  <i style="font-weight:bold;">"Take what's Left and live it properly"</i>
-</div>
-
-<h1></h1>
-
-<div align='center'><img src="waves.svg" alt="waves"></div>
+> “Take what's left and live it properly”
