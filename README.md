@@ -1,5 +1,5 @@
 <img src='/public/banner.jpg'/>
-<h3>Fullstack N8N Developer</h3>
+<h3>Fullstack N8N Engineer</h3>
 
 <p>
   <a href="https://codewithsilva.com" target="_blank">
