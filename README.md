@@ -26,12 +26,13 @@
 
 🔹[VipSeg](https://www.instagram.com/vipsegbrasil/) & [Volp System](https://www.instagram.com/volpsystemoficial/) (Nov 2023 – Jul 2025): Built internal dashboards, CRM, billing and WhatsApp automations for vehicle tracking companies. improved [Reclame Aqui Vipseg](https://www.reclameaqui.com.br/empresa/vipseg-brasil/) score **3.4 to 8.5** in six months.
 
-🔹[VipBet](https://vipbet.vercel.app/) · [betvip.mx](https://betvip.mx/es/) · [cassino.bet.br](https://cassino.bet.br/) (Jan 2020 – Dez 2024): Built and operated betting platforms with **50k+ users**, payments, crypto, cards and game integrations. **project SOLD!!!!**.
+🔹[vipbet](https://vipbet.vercel.app/) · [betvip.mx](https://betvip.mx/es/) · [cassino.bet.br](https://cassino.bet.br/) (Jan 2020 – Dez 2024): Built and operated betting platforms with **50k+ users**, payments, crypto, cards and game integrations. **project SOLD!!!!**.
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b> Things I code with</b>
 <img src='/public/line.gif'/>
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,nextjs,tailwind,framer,radix,figma,notion,reactrouter,markdown,biome,nodejs,expressjs,redis,postgresql,mongodb,prisma,drizzle,betterauth,turborepo,reactquery,zustand,expo,groq,sentry,pnpm,bun,git,github,githubactions,vercel,rust,docker,aws,cloudflare,debian,bash,python,c&theme=dark&titles=true)](codewithsilva.com)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ts,nextjs,react,nodejs,postgresql,prisma,redis,reactquery,zustand,tailwind,framer,radix,docker,aws,cloudflare,vercel,git,github,githubactions,pnpm,bun,groq,sentry,rust,html,css,scss,js&theme=dark&titles=true)](codewithsilva.com)
+
 
 > “Few people have the opportunity to make their profession out of what was once their hobby.”  
 > — **Ayrton Senna**
