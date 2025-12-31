@@ -26,8 +26,7 @@
 
 🔹[Voizy.app](https://voizy.app) (Aug 2025 – Present) — Built a real-time audio, transcription and translation platform for live events (fullstack, admin panel, live support).
 
-🔹[VipSeg](https://vipseg.org/simular/) & [Volp System](https://www.instagram.com/volpsystemoficial/) (Nov 2023 – Jul 2025) — Built internal dashboards, CRM, billing and WhatsApp automations for vehicle tracking companies; improved  
-  [Reclame Aqui Vipseg](https://www.reclameaqui.com.br/empresa/vipseg-brasil/) score **3.4 → 8.5**.
+🔹[VipSeg](https://vipseg.org/simular/) & [Volp System](https://www.instagram.com/volpsystemoficial/) (Nov 2023 – Jul 2025) — Built internal dashboards, CRM, billing and WhatsApp automations for vehicle tracking companies; improved [Reclame Aqui Vipseg](https://www.reclameaqui.com.br/empresa/vipseg-brasil/) score **3.4 → 8.5**.
 
 🔹([VipBet](https://vipbet.vercel.app/) · [betvip.mx](https://betvip.mx/es/) · [cassino.bet.br](https://cassino.bet.br/)) (2020 – 2024) — Built and operated betting platforms with **50,000+ users**, payments, crypto, cards and game integrations; **project sold**.
 
