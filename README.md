@@ -1,9 +1,5 @@
 <img src='/public/banner.jpg'/>
-<h3>Fullstack N8N Engineer</h3>
-
 <p>
-  ![](https://komarev.com/ghpvc/?username=psilva999&theme=github_dark&color=447ff7&label=PROFILE+VIEWS)
-  
   <a href="https://codewithsilva.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
   </a>
