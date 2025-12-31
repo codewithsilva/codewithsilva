@@ -1,9 +1,7 @@
 <a href="https://codewithsilva.com/">
 <img src="/public/banner.jpg" alt="Silva" width="100%"/></a>
 
-
-<p align='right'>
-  <a href="https://codewithsilva.com" target="_blank">
+<a href="https://codewithsilva.com" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
 </a>
 <a href="https://api.whatsapp.com/send?phone=5581987113364&text=Hey" target="_blank">
@@ -15,10 +13,8 @@
 <a href="https://drive.google.com/file/d/1NpsNMQDtEE0kVtluqV1O3Y0KLA1-PVj0/view?usp=drive_link" target="_blank">
   <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=googledocs&logoColor=white"/>
 </a>
-</p>
 
 <img src='/public/line.gif'/>
-
 
 <a href="https://codewithsilva.com/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
 
