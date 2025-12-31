@@ -31,11 +31,6 @@
 
 🔹([VipBet](https://vipbet.vercel.app/) · [betvip.mx](https://betvip.mx/es/) · [cassino.bet.br](https://cassino.bet.br/)) (2020 – 2024) — Built and operated betting platforms with **50,000+ users**, payments, crypto, cards and game integrations; **project sold**.
 
-
-<img src='/public/line.gif'/>
-
-<br/>
-
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b> Things I code with</b>
 <img src='/public/line.gif'/>
 
