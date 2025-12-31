@@ -1,5 +1,7 @@
 <a href="https://codewithsilva.com/">
 <img src="/public/banner.jpg" alt="Silva" width="100%"/></a>
+<a href="https://codewithsilva.com/">
+<img src="/public/banner.jpg" alt="Silva" width="100%"/></a>
 
 <a href="https://codewithsilva.com" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
