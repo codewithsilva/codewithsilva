@@ -65,4 +65,4 @@
 
 <img src='/public/line.gif'/>
 > “Few people have the opportunity to make their profession out of what was once their hobby”  
-> "Ayrton Senna"
+> “Ayrton Senna”
