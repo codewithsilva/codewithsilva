@@ -31,7 +31,7 @@
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b> Production stacks</b>
 <img src='/public/line.gif'/>
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ts,nextjs,react,python,java,rust,nodejs,postgresql,prisma,redis,reactquery,zustand,tailwind,framer,radix,docker,aws,cloudflare,vercel,git,github,githubactions,pnpm,bun,groq,sentry,html,css,scss,js&theme=dark&titles=true)](codewithsilva.com)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ts,nextjs,react,python,java,rust,nodejs,postgresql,prisma,redis,reactquery,zustand,tailwind,framer,radix,docker,aws,cloudflare,vercel,git,github,githubactions,pnpm,bun,groq,sentry,html,css,scss,js&theme=dark&titles=true)](https://codewithsilva.com)
 
 <details>
   <summary>
