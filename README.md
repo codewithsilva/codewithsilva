@@ -10,7 +10,7 @@
 <a href="https://t.me/codewithsilva" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
-<a href="https://drive.google.com/file/d/1NpsNMQDtEE0kVtluqV1O3Y0KLA1-PVj0/view?usp=drive_link" target="_blank">
+<a href="https://drive.google.com/file/d/1IXCWVm1smoCYcH4Uw6OUjkLAs2xy5wwM/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=googledocs&logoColor=white"/>
 </a>
 
