@@ -22,7 +22,7 @@
 
 🔹Currently studying **DevOps**
 
-🔹[Voizy.app](https://voizy.app) & [Business Language](https://www.businesslanguage.com.br/) (Aug 2025 – Present): Built a real-time audio, video, transcription and translation platform for live events for 10k+ users (fullstack, adm panel and live support). [video](https://www.youtube.com/shorts/S20FPwZIDYk)
+🔹[Voizy.app](https://voizy.app) & [Business Language](https://www.businesslanguage.com.br/) (Aug 2025 – Present): Built a real-time audio, video, transcription and translation platform for live events for 30k+ users (fullstack, adm panel and live support). [video](https://www.youtube.com/shorts/S20FPwZIDYk)
 
 🔹[VipSeg](https://www.instagram.com/vipsegbrasil/) & [Volp System](https://www.instagram.com/volpsystemoficial/) (Nov 2023 – Jul 2025): Improved [Reclame Aqui Vipseg](https://www.reclameaqui.com.br/empresa/vipseg-brasil/) score **3.4 to 8.5** in six months. Built internal dashboards, CRM, billing and WhatsApp automations for vehicle tracking companies for 3k+ clients
 
